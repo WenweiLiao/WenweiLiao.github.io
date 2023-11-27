@@ -62,7 +62,7 @@ Hi, my name is Wenwei Liao. I am currently a Master's student in Civil Environme
 </div>
 </div>
 
-# 📝 Porject
+# 📝 Porjects
 1. **Investigation of Lead Content in Duke University Classroom Windows**
    - Conducting a study to investigate the lead content in windows of Duke University classrooms.
    - Utilizing chemical analysis techniques, sampling methods, and heavy metal measurement skills.
