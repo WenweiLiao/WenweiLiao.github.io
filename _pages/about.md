@@ -106,10 +106,6 @@ Hi, my name is Wenwei Liao. I am currently a Master's student in Civil Environme
 **South China Agricultural University (SCAU), Guangzhou, GD.**
 - 2013.09 - 2017.06, Bachelor of Science in Environmental Science and Bachelor of Engineering in Software Engineering, 
 
-# 💻 Presentations
-- *2021.06*, Presented my research on "Advancements in Neural Machine Translation" at the AI Global Summit 2021.
-- *2021.03*, Spoke about "Innovative Applications of Computer Vision in Environmental Engineering" at the National Environmental Conference 2021. \| [\[video\]](https://github.com/)
-
 # 💻 Work Experience
 **2017.11 - 2018.05, Research Assistant at the Joint Institute for Environmental Research and Education, Guangzhou, GD.** 
 - Involved in Soil Testing and Formula Fertilization Project of Guangdong Province and collaborated with local agricultural departments for field experiments.
