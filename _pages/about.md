@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, my name is Wenwei Liao. I am currently a Master's student in Civil Environmental Engineering at Duke University.
-**Research：**
+
+- **Research：**
 - 1.Modeling and Data Analysis: My focus is on the application of modeling and data analysis across various scientific and environmental areas.
 - 2.Machine Learning in Environmental Science: I am particularly interested in using machine learning for climate and meteorological data prediction and analysis, with applications in hydrology and fluid dynamics.
 - 3.Wastewater Treatment: My interests here include both chemical and biological methods of wastewater treatment, as well as the modeling and data analysis of these processes.
@@ -36,10 +37,10 @@ Hi, my name is Wenwei Liao. I am currently a Master's student in Civil Environme
 - 4.Business: My experience includes running businesses, with one focused on environmental protection, offering consultancy and environmental impact assessment services, and another in the education sector, focusing on math and academic training.
 
 # 🔥 News
--2023: 🎉 Thrilled to announce that student Lü Haoxuan has secured an interview for the undergraduate program at Duke University.
--2023: 🎉 Proud to share that student Tan Qi and others ranked in the Top 5% in the AMC Mathematics Competition.
--2022.02: 🎉 Excited to announce acceptance into Duke University's Civil and Environmental Engineering program with a scholarship.
--2022.01: 🎉 Successfully received admissions offers for Master's programs at UNC, Vanderbilt University, and UCSU.
+- 2023: 🎉 Thrilled to announce that student Lü Haoxuan has secured an interview for the undergraduate program at Duke University.
+- 2023: 🎉 Proud to share that student Tan Qi and others ranked in the Top 5% in the AMC Mathematics Competition.
+- 2022.02: 🎉 Excited to announce acceptance into Duke University's Civil and Environmental Engineering program with a scholarship.
+- 2022.01: 🎉 Successfully received admissions offers for Master's programs at UNC, Vanderbilt University, and UCSU.
 
 # 📝 Publications 
 
@@ -52,12 +53,13 @@ Hi, my name is Wenwei Liao. I am currently a Master's student in Civil Environme
 </div>
 <div class='paper-box-text' markdown="1">
 
-Hu, X., Xu, J., Wu, C., Deng, J., Liao, W., Ling, Y., Yang, Y., Zhao, Y., Zhao, Y., Hu, X. and Wang, H., 2017. Ethylenediamine grafted to graphene oxide@ Fe3O4 for chromium (VI) decontamination: Performance, modelling, and fractional factorial design. PLoS One, 12(10),p.e0187166. [DOI:10.1371/journal.pone.0187166](https://www.doi.org/10.1371/journal.pone.0187166)
+- **[1]** Hu, X., Xu, J., Wu, C., Deng, J., Liao, W., Ling, Y., Yang, Y., Zhao, Y., Zhao, Y., Hu, X. and Wang, H., 2017. Ethylenediamine grafted to graphene oxide@ Fe3O4 for chromium (VI) decontamination: Performance, modelling, and fractional factorial design. PLoS One, 12(10),p.e0187166. [DOI:10.1371/journal.pone.0187166](https://www.doi.org/10.1371/journal.pone.0187166)
 
-Yang, Y., Hu, X., Zhao, Y., Cui, L., Huang, Z., Long, J., Xu, J., Deng, J., Wu, C., and Liao, W., 2017. Decontamination of tetracycline by thiourea-dioxide–reduced magnetic graphene oxide: Effects of pH, ionic strength, and humic acid concentration. Journal of Colloid and Interface Science, 495, pp.68-77. [DOI:10.1016/j.jcis.2017.01.075](https://www.doi.org/10.1016/j.jcis.2017.01.075)
+- **[2]** Yang, Y., Hu, X., Zhao, Y., Cui, L., Huang, Z., Long, J., Xu, J., Deng, J., Wu, C., and Liao, W., 2017. Decontamination of tetracycline by thiourea-dioxide–reduced magnetic graphene oxide: Effects of pH, ionic strength, and humic acid concentration. Journal of Colloid and Interface Science, 495, pp.68-77. [DOI:10.1016/j.jcis.2017.01.075](https://www.doi.org/10.1016/j.jcis.2017.01.075)
 
-Liao, Wenwei., and Han, Jiayi, 2016. "A Review of the Research on Immobilized Enzyme Biodiesel." Chemical Enterprise Management, (8), pp. 147-147. (in Chinese) [Paper Link]([https://www.doi.org/10.1016/j.jcis.2017.01.075](http://www.cqvip.com/qk/80982x/201608/70717176504849544856495152.html))
+- **[3}** Liao, Wenwei., and Han, Jiayi, 2016. "A Review of the Research on Immobilized Enzyme Biodiesel." Chemical Enterprise Management, (8), pp. 147-147. (in Chinese) [Paper Link]([https://www.doi.org/10.1016/j.jcis.2017.01.075](http://www.cqvip.com/qk/80982x/201608/70717176504849544856495152.html))
 
+</div>
 </div>
 [**Project**]
 1. **Investigation of Lead Content in Duke University Classroom Windows**
@@ -89,20 +91,18 @@ Liao, Wenwei., and Han, Jiayi, 2016. "A Review of the Research on Immobilized En
    - Gaining experience in data preparation, analysis, and data-driven decision-making.
    - Leading the project to analyze data and compare the performance of different prediction models, contributing to data-driven insights.
    - Collaborating with a team to improve the accuracy of temperature predictions.
-</div>
-
 # 🎖 Honors and Awards
 - 2022.09 Awarded the Duke University Scholarship for outstanding admitted students at Duke University.
 - 2016.11 Received the National Scholarship, an annual award granted to one student.
--2016.11, 2017.05 Achieved the First-class Scholarship of SCAU, awarded to the top 1% of students in each grade.
--2015.11 Honored with the First-class Scholarship of SCAU, recognizing the top 1% of students in each grade.
+- 2016.11, 2017.05 Achieved the First-class Scholarship of SCAU, awarded to the top 1% of students in each grade.
+- 2015.11 Honored with the First-class Scholarship of SCAU, recognizing the top 1% of students in each grade.
 - 2014.10 Earned the Outstanding Social Work Award of SCAU, given to 10 students per year.
 
 # 📖 Educations
 **Duke University, Durham, NC.**
 - 2022.09 - 2024.05 (exp.), Master's of Civil Environmental Engineering
 **South China Agricultural University (SCAU), Guangzhou, GD.**
--2013.09 - 2017.06, Bachelor of Science in Environmental Science and Bachelor of Engineering in Software Engineering, 
+- 2013.09 - 2017.06, Bachelor of Science in Environmental Science and Bachelor of Engineering in Software Engineering, 
 
 # 💻 Presentations
 - *2021.06*, Presented my research on "Advancements in Neural Machine Translation" at the AI Global Summit 2021.
@@ -110,19 +110,19 @@ Liao, Wenwei., and Han, Jiayi, 2016. "A Review of the Research on Immobilized En
 
 # 💻 Work Experience
 **2017.11 - 2018.05, Research Assistant at the Joint Institute for Environmental Research and Education, Guangzhou, GD.** 
--Involved in Soil Testing and Formula Fertilization Project of Guangdong Province and collaborated with local agricultural departments for field experiments.
+- Involved in Soil Testing and Formula Fertilization Project of Guangdong Province and collaborated with local agricultural departments for field experiments.
 
 **2018.05 - 2019.04, Teacher at QIHANG Education, Guangzhou, GD.**
--Delivered courses in environmental science, advanced mathematics calculus, and C programming language; developed -learning materials and assisted students in entrance examination preparations.
+- Delivered courses in environmental science, advanced mathematics calculus, and C programming language; developed -learning materials and assisted students in entrance examination preparations.
 
 **2019.05 - 2021.03, Bilingual Math Teacher at WEIXUE 100, Guangzhou, GD.**
--Taught various math courses including AP Calculus and A-Level; helped students excel in AMC12 and AMIE competitions; accumulated extensive teaching experience.
+- Taught various math courses including AP Calculus and A-Level; helped students excel in AMC12 and AMIE competitions; accumulated extensive teaching experience.
 
 **2020.05 - Present, Co-founder and General Manager at Qinghe Environmental Protection Ecology, Guangzhou, GD.**
--Managed EIA projects and company operations; assisted businesses in meeting environmental standards.
+- Managed EIA projects and company operations; assisted businesses in meeting environmental standards.
 
 **2021.10 - 2022.06, Bilingual Math Teacher at Guangdong Experimental High School AP International Program, Guangzhou, GD.**
--Taught AP Calculus and Python; managed classroom activities and student learning plans for five classes.
+- Taught AP Calculus and Python; managed classroom activities and student learning plans for five classes.
 
 # 🌍 Community Involvement
 - *2015.06 - 2015.09*, Volunteer at Dawn Program - Voluntary Teaching for Students in the Mountain Area. Responsibilities included preparing food for the team, photography, and teaching environmental protection knowledge.
