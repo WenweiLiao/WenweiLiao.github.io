@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, my name is Wenwei Liao. I am currently a Master's student in Civil Environmental Engineering at Duke University.
 
-- **Research：**
+**Research：**
 - 1.Modeling and Data Analysis: My focus is on the application of modeling and data analysis across various scientific and environmental areas.
 - 2.Machine Learning in Environmental Science: I am particularly interested in using machine learning for climate and meteorological data prediction and analysis, with applications in hydrology and fluid dynamics.
 - 3.Wastewater Treatment: My interests here include both chemical and biological methods of wastewater treatment, as well as the modeling and data analysis of these processes.
@@ -61,7 +61,8 @@ Hi, my name is Wenwei Liao. I am currently a Master's student in Civil Environme
 
 </div>
 </div>
-[**Project**]
+
+# 📝 Porject
 1. **Investigation of Lead Content in Duke University Classroom Windows**
    - Conducting a study to investigate the lead content in windows of Duke University classrooms.
    - Utilizing chemical analysis techniques, sampling methods, and heavy metal measurement skills.
@@ -91,6 +92,7 @@ Hi, my name is Wenwei Liao. I am currently a Master's student in Civil Environme
    - Gaining experience in data preparation, analysis, and data-driven decision-making.
    - Leading the project to analyze data and compare the performance of different prediction models, contributing to data-driven insights.
    - Collaborating with a team to improve the accuracy of temperature predictions.
+   
 # 🎖 Honors and Awards
 - 2022.09 Awarded the Duke University Scholarship for outstanding admitted students at Duke University.
 - 2016.11 Received the National Scholarship, an annual award granted to one student.
